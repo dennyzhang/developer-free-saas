@@ -1,2 +1,3 @@
-*** When your certificate will expire
-*** How strong is your SSL
+* When your certificate will expire
+
+* How strong is your SSL
