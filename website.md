@@ -4,3 +4,5 @@
 ![](./images/dotcom-tools.png)
 * [By Denny] WebPage Test: https://www.webpagetest.org
 ![](./images/webpage-test.png)
+* [By Denny] Chinese Firewall Test: http://www.viewdns.info/chinesefirewall/
+![](./images/chinese-firewall-test.png)
