@@ -6,3 +6,5 @@
 ![](./images/webpage-test.png)
 * [By Denny] Chinese Firewall Test: http://www.viewdns.info/chinesefirewall/
 ![](./images/chinese-firewall-test.png)
+* [By Denny] Whether website support http2 protocal: https://http2.pro/check
+![](./images/check-http2.png)
