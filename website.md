@@ -8,3 +8,5 @@
 ![](./images/chinese-firewall-test.png)
 * [By Denny] Whether website support http2 protocal: https://http2.pro/check
 ![](./images/check-http2.png)
+* [By Denny] Check IP address information: https://www.tcpiputils.com/browse/ip-address/
+![](./images/check-ip-address.png)
