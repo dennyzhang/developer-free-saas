@@ -1,10 +1,8 @@
 # Free SaaS Tools For Developers
 
-Requirements: **Free**, **Useful** and **Online**. 
+Only accept SaaS tools: you use heavily everyday. And it should be free and safe.
 
 Please send me PRs. Thanks!
-
-Note: Only suggest tools you use heavily in your daily work.
 
 - [programming.md](programming.md): For programming or coding
 - [frontend.md](frontend.md): For frontend developers
