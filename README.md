@@ -1,4 +1,7 @@
-# A Summary List Of Free SaaS Tools For Developers: **Free**, **Useful** and **Online**.
+# A Summary List Of Free SaaS Tools For Developers
+
+**Free**, **Useful** and **Online**.
+
 Please send me PRs, if you have new recommendations or suggestions.
 
 - [programming.md](programming.md): For programming or coding
