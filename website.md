@@ -10,3 +10,4 @@
 ![](./images/check-http2.png)
 * [By Denny] Check IP address information: https://www.tcpiputils.com/browse/ip-address/
 ![](./images/check-ip-address.png)
+* [By Denny] Fin my public IP address: http://ipecho.net/plain
