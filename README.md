@@ -15,4 +15,4 @@ Please send me PRs. Thanks!
 # More thinkings
 - If we can have docker images to host the solution by our own, it would be even better.
 
-More input? Contact me in [LinkedIn](https://www.linkedin.com/in/dennyzhang001) or [Blog](https://www.dennyzhang.com).
+More input? Contact me in [LinkedIn](https://www.linkedin.com/in/dennyzhang001) or [Blog](https://www.dennyzhang.com/tools).
