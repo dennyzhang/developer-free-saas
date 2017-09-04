@@ -12,4 +12,7 @@ Please send me PRs. Thanks!
 - [ssl.md](ssl.md): SSL certificate
 - [website.md](website.md): For people maintaing personal websites
 
-Discuss with Denny in [LinkedIn](https://www.linkedin.com/in/dennyzhang001) or [Blog](https://www.dennyzhang.com).
+# More thinkings
+- If we can have docker images to host the solution by our own, it would be even better.
+
+More input? Contact me in [LinkedIn](https://www.linkedin.com/in/dennyzhang001) or [Blog](https://www.dennyzhang.com).
