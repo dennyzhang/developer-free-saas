@@ -37,7 +37,7 @@ Send me PRs please. Thanks!
 
 More thinkings:
 - If we can have docker images to host the solution by our own, it would be even better.
-- More input? Contact me in [LinkedIn](https://www.linkedin.com/in/dennyzhang001) or [Blog](https://www.dennyzhang.com/tools).
+- More input? Contact me via [LinkedIn](https://www.linkedin.com/in/dennyzhang001) or [Blog](https://www.dennyzhang.com/tools).
 
 # Programming
 ## Analysis Java gc.log
