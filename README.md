@@ -25,9 +25,7 @@ Table of Contents
       * [Random password generator](#random-password-generator)
 
 # Introduction
-**Free Web-based Tools For Developers**
-
-GitHub Repo Link: https://github.com/DennyZhang/developer-free-saas
+**Free Web-based Tools For Developers**. GitHub: https://github.com/DennyZhang/developer-free-saas
 
 Only accept **free** and **web-based** tools. Send me PRs please. Thanks!
 
