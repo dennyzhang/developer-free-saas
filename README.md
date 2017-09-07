@@ -43,7 +43,7 @@ More thinkings:
 ![](./images/gceasy-java-gc.jpg)
 ## Test Groovy scripts
 - URL: https://groovyconsole.appspot.com
-![](./images/run-groovy.png)
+![](./images/run-groovy.jpg)
 
 # SSL
 ## Deep analysis of the configuration of any SSL web server
