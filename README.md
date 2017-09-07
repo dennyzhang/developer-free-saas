@@ -1,7 +1,12 @@
+**Free Web-based Tools For Developers**. GitHub: https://github.com/DennyZhang/developer-free-saas
+
+Only accept **free** and **web-based** tools. (No commercial or paid SaaS services).
+
+Send me PRs please. Thanks!
+
 Table of Contents
 =================
 
-   * [Introduction](#introduction)
    * [Network](#network)
       * [Check IP address information](#check-ip-address-information)
       * [Fin my public IP address](#fin-my-public-ip-address)
@@ -27,17 +32,7 @@ Table of Contents
    * [Security](#security)
       * [Random password generator](#random-password-generator)
       * [Online UUID Generator](#online-uuid-generator)
-
-# Introduction
-**Free Web-based Tools For Developers**. GitHub: https://github.com/DennyZhang/developer-free-saas
-
-Only accept **free** and **web-based** tools. (No commercial or paid SaaS services).
-
-Send me PRs please. Thanks!
-
-More thinkings:
-- If we can have docker images to host the solution by our own, it would be even better.
-- More input? Contact me via [LinkedIn](https://www.linkedin.com/in/dennyzhang001) or [Blog](https://www.dennyzhang.com/tools).
+   * [More Thinkings](#more-thinkings)
 
 # Network
 ## Check IP address information
@@ -112,3 +107,7 @@ More thinkings:
 ## Online UUID Generator
 - URL: https://www.uuidgenerator.net
 ![](./images/uuid_generator.jpg)
+
+# More Thinkings
+- If we can have docker images to host the solution by our own, it would be even better.
+- More input? Contact me via [LinkedIn](https://www.linkedin.com/in/dennyzhang001) or [Blog](https://www.dennyzhang.com/tools).
