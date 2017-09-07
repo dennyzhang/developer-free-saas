@@ -48,7 +48,7 @@ More thinkings:
 # SSL
 ## Deep analysis of the configuration of any SSL web server
 - URL: https://www.ssllabs.com/ssltest/index.html
-![](./images/ssl-lab-test.png)
+![](./images/ssl-lab-test.jpg)
 ## When your certificate will expire
 - URL: https://www.sslshopper.com/ssl-checker.html
 ![](./images/ssl-check-expiration.jpg)
@@ -57,53 +57,53 @@ More thinkings:
 # Network
 ## Check IP address information
 - URL: https://www.tcpiputils.com/browse/ip-address/
-![](./images/check-ip-address.png)
+![](./images/check-ip-address.jpg)
 ## Fin my public IP address
 - URL: http://ipecho.net/plain
 ## Network Subnet Calculator
 - URL: https://mxtoolbox.com/SubnetCalculator.aspx
-![](./images/subnet-caculator.png)
+![](./images/subnet-caculator.jpg)
 
 # Webiste
 ## Google pagespeed
 - URL: https://developers.google.com/speed/pagespeed/insights/
-![](./images/google-pagespeed.png)
+![](./images/google-pagespeed.jpg)
 ## Test landing page from all over the world
 - URL: https://www.dotcom-tools.com/website-speed-test.aspx
-![](./images/dotcom-tools.png)
+![](./images/dotcom-tools.jpg)
 ## WebPage Test
 - URL: https://www.webpagetest.org
-![](./images/webpage-test.png)
+![](./images/webpage-test.jpg)
 ## Chinese Firewall Test
 - URL: http://www.viewdns.info/chinesefirewall/
-![](./images/chinese-firewall-test.png)
+![](./images/chinese-firewall-test.jpg)
 ## Whether website support http2 protocal
 - URL: https://http2.pro/check
-![](./images/check-http2.png)
+![](./images/check-http2.jpg)
 
 # Frontend
 ## Beautify html/css code
 - URL: http://www.cleancss.com/html-beautify
-![](./images/html-beautify.png)
+![](./images/html-beautify.jpg)
 ## Minify CSS code
 - URL: http://css.github.io/csso/csso.html
-![](./images/minfy-css.png)
+![](./images/minfy-css.jpg)
 ## Get color RGB
 - URL: http://www.colorhexa.com/888888
-![](./images/rgb-color.png)
+![](./images/rgb-color.jpg)
 ## html escape tool
 - URL: http://www.htmlescape.net/htmlescape_tool.html
-![](./images/html-escape.png)
+![](./images/html-escape.jpg)
 
 ## Find icons
 - URL: https://www.iconfinder.com
-![](./images/find-icon.png)
+![](./images/find-icon.jpg)
 
 # Security
 ## Random password generator
 - URL: http://passwordsgenerator.net
-![](./images/passwords-generator.png)
+![](./images/passwords-generator.jpg)
 
 ## Online UUID Generator
 - URL: https://www.uuidgenerator.net
-![](./images/uuid_generator.png)
+![](./images/uuid_generator.jpg)
