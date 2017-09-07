@@ -31,7 +31,9 @@ Table of Contents
 # Introduction
 **Free Web-based Tools For Developers**. GitHub: https://github.com/DennyZhang/developer-free-saas
 
-Only accept **free** and **web-based** tools. Send me PRs please. Thanks!
+Only accept **free** and **web-based** tools. (No commercial or paid SaaS services).
+
+Send me PRs please. Thanks!
 
 More thinkings:
 - If we can have docker images to host the solution by our own, it would be even better.
