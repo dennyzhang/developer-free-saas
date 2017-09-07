@@ -29,9 +29,9 @@ Table of Contents
 
 GitHub Repo Link: https://github.com/DennyZhang/developer-free-saas
 
-Only accept SaaS tools: you use heavily everyday. And it should be free and safe.
+Only accept **free** and **web-based** tools. Ideally you should be using them at daily basis.
 
-Please send me PRs. Thanks!
+So send me PRs please. Thanks!
 
 More thinkings:
 - If we can have docker images to host the solution by our own, it would be even better.
