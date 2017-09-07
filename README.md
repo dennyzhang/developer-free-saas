@@ -23,6 +23,7 @@ Table of Contents
       * [html escape tool](#html-escape-tool)
    * [Security](#security)
       * [Random password generator](#random-password-generator)
+      * [Online UUID Generator](#online-uuid-generator)
 
 # Introduction
 **Free Web-based Tools For Developers**. GitHub: https://github.com/DennyZhang/developer-free-saas
@@ -92,3 +93,6 @@ More thinkings:
 - URL: http://passwordsgenerator.net
 ![](./images/passwords-generator.png)
 
+## Online UUID Generator
+- URL: https://www.uuidgenerator.net
+![](./images/uuid_generator.png)
