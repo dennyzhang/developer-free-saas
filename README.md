@@ -1,8 +1,6 @@
 **Free Web-based Tools For Developers**. GitHub: https://github.com/DennyZhang/developer-free-saas
 
-Only accept **free** and **web-based** tools. (No commercial or paid SaaS services).
-
-Send me PRs please. Thanks!
+Only accept **free** and **web-based** tools. (No commercial or paid SaaS services). Welcome PRs or suggestions.
 
 Table of Contents
 =================
