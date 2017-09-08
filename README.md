@@ -15,6 +15,8 @@ Table of Contents
       * [Get color RGB](#get-color-rgb)
       * [html escape tool](#html-escape-tool)
       * [Find icons](#find-icons)
+   * [Testing](#testing)
+      * [GUI simulation test](#gui-simulation-test)
    * [Programming](#programming)
       * [Analysis Java gc.log](#analysis-java-gclog)
       * [Test Groovy scripts](#test-groovy-scripts)
@@ -24,6 +26,7 @@ Table of Contents
    * [Webiste](#webiste)
       * [Google pagespeed](#google-pagespeed)
       * [Test landing page from all over the world](#test-landing-page-from-all-over-the-world)
+      * [GTmetrix: Analyze your site’s speed](#gtmetrix-analyze-your-sites-speed)
       * [WebPage Test](#webpage-test)
       * [Chinese Firewall Test](#chinese-firewall-test)
       * [Whether website support http2 protocal](#whether-website-support-http2-protocal)
@@ -89,6 +92,11 @@ Table of Contents
 ## Test landing page from all over the world
 - URL: https://www.dotcom-tools.com/website-speed-test.aspx
 ![](./images/dotcom-tools.jpg)
+## GTmetrix: Analyze your site’s speed
+- URL: https://gtmetrix.com
+![](./images/evaluate_webiste_gtmetrix.jpg)
+- URL: https://www.webpagetest.org
+![](./images/webpage-test.jpg)
 ## WebPage Test
 - URL: https://www.webpagetest.org
 ![](./images/webpage-test.jpg)
