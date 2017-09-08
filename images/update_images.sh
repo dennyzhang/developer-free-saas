@@ -2,14 +2,14 @@
 ##-------------------------------------------------------------------
 ## @copyright 2017 DennyZhang.com
 ## Licensed under MIT 
-##   https://raw.githubusercontent.com/DennyZhang/devops_public/master/LICENSE
+##   https://www.dennyzhang.com/wp-content/mit_license.txt
 ##
 ## File : update_images.sh
 ## Author : Denny <contact@dennyzhang.com>
 ## Description :
 ## --
 ## Created : <2017-09-07>
-## Updated: Time-stamp: <2017-09-07 00:51:36>
+## Updated: Time-stamp: <2017-09-07 21:35:14>
 ##-------------------------------------------------------------------
 for f in $(ls *.png); do
     echo "convert $f ${f%.png}.jpg"

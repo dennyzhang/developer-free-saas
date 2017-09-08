@@ -1,4 +1,4 @@
-**Free Web-based Tools For Developers**. GitHub: https://github.com/DennyZhang/developer-free-saas
+**A curated list Of Free Web-based Tools For Developers**. GitHub: https://github.com/DennyZhang/developer-free-saas
 
 Only accept **free** and **web-based** tools. (No commercial or paid SaaS services). Welcome PRs or suggestions.
 
@@ -109,3 +109,5 @@ Table of Contents
 # More Thinkings
 - If we can have docker images to host the solution by our own, it would be even better.
 - More input? Contact me via [LinkedIn](https://www.linkedin.com/in/dennyzhang001) or [Blog](https://www.dennyzhang.com/tools).
+
+Code is licensed under [MIT License](https://www.dennyzhang.com/wp-content/mit_license.txt).
