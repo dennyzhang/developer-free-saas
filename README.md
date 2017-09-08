@@ -23,6 +23,7 @@ Table of Contents
    * [Programming](#programming)
       * [Analysis Java gc.log](#analysis-java-gclog)
       * [Test Groovy scripts](#test-groovy-scripts)
+      * [Explain shell scripts](#explain-shell-scripts)
    * [SSL](#ssl)
       * [Deep analysis of the configuration of any SSL web server](#deep-analysis-of-the-configuration-of-any-ssl-web-server)
       * [When your certificate will expire](#when-your-certificate-will-expire)
@@ -87,6 +88,9 @@ Table of Contents
 ## Test Groovy scripts
 - URL: https://groovyconsole.appspot.com
 ![](./images/run-groovy.jpg)
+## Explain shell scripts
+- URL: https://www.explainshell.com
+![](./images/explainshell.jpg)
 
 # SSL
 ## Deep analysis of the configuration of any SSL web server
