@@ -110,8 +110,6 @@ Table of Contents
 ## GTmetrix: Analyze your site’s speed
 - URL: https://gtmetrix.com
 ![](./images/evaluate_webiste_gtmetrix.jpg)
-- URL: https://www.webpagetest.org
-![](./images/webpage-test.jpg)
 ## WebPage Test
 - URL: https://www.webpagetest.org
 ![](./images/webpage-test.jpg)
