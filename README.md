@@ -68,6 +68,15 @@ Table of Contents
 - URL https://www.browserling.com
 ![](./images/browserling-gui.jpg)
 
+# Security
+## Random password generator
+- URL: http://passwordsgenerator.net
+![](./images/passwords-generator.jpg)
+
+## Online UUID Generator
+- URL: https://www.uuidgenerator.net
+![](./images/uuid_generator.jpg)
+
 # Programming
 ## Analysis Java gc.log
 - URL: http://gceasy.io
@@ -110,15 +119,11 @@ Table of Contents
 - URL: https://http2.pro/check
 ![](./images/check-http2.jpg)
 
-# Security
-## Random password generator
-- URL: http://passwordsgenerator.net
-![](./images/passwords-generator.jpg)
+# Sharing
 
-## Online UUID Generator
-- URL: https://www.uuidgenerator.net
-![](./images/uuid_generator.jpg)
-
+## transfer.sh: Easy file sharing from the command line
+- URL: https://transfer.sh
+![](./images/transfer-cli.jpg)
 
 # More Thinkings
 - If we can have docker images to host the solution by our own, it would be even better.
