@@ -61,10 +61,15 @@ Table of Contents
 ## html escape tool
 - URL: http://www.htmlescape.net/htmlescape_tool.html
 ![](./images/html-escape.jpg)
-
 ## Find icons
 - URL: https://www.iconfinder.com
 ![](./images/find-icon.jpg)
+
+# Sharing
+
+## transfer.sh: Easy file sharing from the command line
+- URL: https://transfer.sh
+![](./images/transfer-cli.jpg)
 
 # Testing
 ## GUI simulation test
@@ -92,14 +97,6 @@ Table of Contents
 - URL: https://www.explainshell.com
 ![](./images/explainshell.jpg)
 
-# SSL
-## Deep analysis of the configuration of any SSL web server
-- URL: https://www.ssllabs.com/ssltest/index.html
-![](./images/ssl-lab-test.jpg)
-## When your certificate will expire
-- URL: https://www.sslshopper.com/ssl-checker.html
-![](./images/ssl-check-expiration.jpg)
-
 # Webiste
 ## Google pagespeed
 - URL: https://developers.google.com/speed/pagespeed/insights/
@@ -123,11 +120,13 @@ Table of Contents
 - URL: https://http2.pro/check
 ![](./images/check-http2.jpg)
 
-# Sharing
-
-## transfer.sh: Easy file sharing from the command line
-- URL: https://transfer.sh
-![](./images/transfer-cli.jpg)
+# SSL
+## Deep analysis of the configuration of any SSL web server
+- URL: https://www.ssllabs.com/ssltest/index.html
+![](./images/ssl-lab-test.jpg)
+## When your certificate will expire
+- URL: https://www.sslshopper.com/ssl-checker.html
+![](./images/ssl-check-expiration.jpg)
 
 # More Thinkings
 - If we can have docker images to host the solution by our own, it would be even better.
