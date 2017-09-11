@@ -19,6 +19,7 @@ Table of Contents
       * [Network Subnet Calculator](#network-subnet-calculator)
    * [Frontend](#frontend)
       * [Beautify html/css code](#beautify-htmlcss-code)
+      * [Validate Your HTML](#validate-your-html)
       * [Minify CSS code](#minify-css-code)
       * [Get color RGB](#get-color-rgb)
       * [html escape tool](#html-escape-tool)
@@ -71,6 +72,9 @@ Table of Contents
 ## Beautify html/css code
 - URL: http://www.cleancss.com/html-beautify
 ![](./images/html-beautify.jpg)
+## Validate Your HTML
+- URL: https://www.freeformatter.com/html-validator.html
+![](./images/validate_html.png)
 ## Minify CSS code
 - URL: http://css.github.io/csso/csso.html
 ![](./images/minfy-css.jpg)
