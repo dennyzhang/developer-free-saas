@@ -1,3 +1,6 @@
+[![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/dennyzhang001) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/DennyZhang) [![Twitter](https://www.dennyzhang.com/wp-content/uploads/sns/twitter.png)](https://twitter.com/dennyzhang001) [![Slack](https://www.dennyzhang.com/wp-content/uploads/sns/slack.png)](https://www.dennyzhang.com/slack)
+- File me [tickets](https://github.com/DennyZhang/developer-free-saas/issues) or star [this github repo](https://github.com/DennyZhang/developer-free-saas)
+
 **A curated list Of Free Web-based Tools For Developers**. GitHub: https://github.com/DennyZhang/developer-free-saas
 
 Only accept **free** and **web-based** tools. (No commercial or paid SaaS services). 
