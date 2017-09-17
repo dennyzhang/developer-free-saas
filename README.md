@@ -2,7 +2,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-- File me [tickets](https://github.com/DennyZhang/developer-free-saas/issues) or star [the repo](https://github.com/DennyZhang/developer-free-saas)
+Or file me [tickets](https://github.com/DennyZhang/developer-free-saas/issues)
 
 **A curated list Of Free Web-based Tools For Developers**. GitHub: https://github.com/DennyZhang/developer-free-saas
 
