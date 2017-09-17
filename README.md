@@ -66,7 +66,7 @@ Table of Contents
 
 # Network
 ## Check IP address information
-- URL: https://www.tcpiputils.com/browse/ip-address/
+- URL: https://www.tcpiputils.com/browse/ip-address
 ![](./images/check-ip-address.jpg)
 ## Fin my public IP address
 - URL: http://ipecho.net/plain
@@ -76,7 +76,7 @@ Table of Contents
 
 # Frontend
 ## Beautify html/css code
-- URL: http://www.cleancss.com/html-beautify
+- URL: https://www.cleancss.com/html-beautify
 ![](./images/html-beautify.jpg)
 ## Validate Your HTML
 - URL: https://www.freeformatter.com/html-validator.html
