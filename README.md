@@ -23,7 +23,7 @@ Table of Contents
       * [Explain shell scripts](#explain-shell-scripts)
    * [Network](#network)
       * [Check IP address information](#check-ip-address-information)
-      * [Fin my public IP address](#fin-my-public-ip-address)
+      * [Find my public IP address](#find-my-public-ip-address)
       * [Network Subnet Calculator](#network-subnet-calculator)
    * [Frontend](#frontend)
       * [Beautify html/css code](#beautify-htmlcss-code)
@@ -70,7 +70,7 @@ Table of Contents
 ## Check IP address information
 - URL: https://www.tcpiputils.com/browse/ip-address
 ![](./images/check-ip-address.jpg)
-## Fin my public IP address
+## Find my public IP address
 - URL: http://ipecho.net/plain
 ## Network Subnet Calculator
 - URL: https://mxtoolbox.com/SubnetCalculator.aspx
